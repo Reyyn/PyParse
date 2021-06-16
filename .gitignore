@@ -1,0 +1,10 @@
+.idea
+
+input/*
+!/input/.empty
+output/*
+!/output/.empty
+resources/*
+!resources/.empty
+modules/*
+!modules/example.py
